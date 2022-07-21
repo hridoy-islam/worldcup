@@ -67,6 +67,12 @@ ul li {
   border-radius: 5px;
   padding: 16px 25px;
 }
+.watch-button i {
+  transition: 1s ease;
+}
+.watch-button:hover > i {
+  padding-left: 15px;
+}
 .fa-angle-right {
   margin-left: 10px;
 }
