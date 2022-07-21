@@ -307,7 +307,7 @@ footer {
     display: none;
   }
 }
-
+/* Mobile Device */
 @media all and (max-width: 576px) {
   .banner {
     grid-template-columns: repeat(1, 1fr);
