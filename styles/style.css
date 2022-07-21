@@ -297,6 +297,9 @@ footer {
     grid-template-columns: repeat(2, 1fr);
     margin: 0 auto;
   }
+  .blogmore {
+    display: none;
+  }
 }
 
 @media all and (max-width: 576px) {
